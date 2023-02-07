@@ -3,7 +3,7 @@
   <img width="257" height="229" src="https://raw.githubusercontent.com/cr4zyp4y4n/cr4zyp4y4n/master/GuillemdeFrutem.png">
 </p>
 <p align="center">
-"𝐸𝓃𝑜𝓋𝑒" - 𝒢𝓊𝒾𝓁𝓁𝑒𝓂 𝒹𝑒 𝒻𝓇𝓊𝓉𝑒𝓂
+"𝘌𝘯𝘰𝘷𝘦" - 𝘎𝘶𝘪𝘭𝘭𝘦𝘮 𝘥𝘦 𝘍𝘳𝘶𝘵𝘦𝘮
 </p>
 <!--
 **cr4zyp4y4n/cr4zyp4y4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
