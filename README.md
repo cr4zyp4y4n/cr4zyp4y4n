@@ -1,6 +1,6 @@
 ### Yo yo yo. 148-3 to the 3 to the 6 to the 9, representing the ABQ, what up, biatch?! 👋
 
-![alt text](https://raw.githubusercontent.com/cr4zyp4y4n/cr4zyp4y4n/master/)
+![alt text](https://raw.githubusercontent.com/cr4zyp4y4n/cr4zyp4y4n/master/GuillemdeFrutem.png)
 
 "Enove" - Guillem de frutem
 <!--
