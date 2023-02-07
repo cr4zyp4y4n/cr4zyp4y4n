@@ -2,6 +2,10 @@
 
 ![alt text](https://raw.githubusercontent.com/cr4zyp4y4n/cr4zyp4y4n/master/GuillemdeFrutem.png)
 
+<p align="center">
+  <img width="600" height="200" src="https://raw.githubusercontent.com/cr4zyp4y4n/cr4zyp4y4n/master/GuillemdeFrutem.png">
+</p>
+
 "Enove" - Guillem de frutem
 <!--
 **cr4zyp4y4n/cr4zyp4y4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
