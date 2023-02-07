@@ -1,7 +1,6 @@
 ### Yo yo yo. 148-3 to the 3 to the 6 to the 9, representing the ABQ, what up, biatch?! 👋
 
-https://github.com/cr4zyp4y4n/cr4zyp4y4n/blob/main/451aqapnycy91.png
-
+https://raw.githubusercontent.com/cr4zyp4y4n/cr4zyp4y4n/master/assets/
 <!--
 **cr4zyp4y4n/cr4zyp4y4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
