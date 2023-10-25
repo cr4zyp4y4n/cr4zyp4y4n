@@ -14,7 +14,7 @@ Bienvenido a mi perfil de GitHub. Aquí podrás ver información sobre mí, mis 
 - [Esta es mi canción favorita.](https://www.youtube.com/watch?v=3_cZWsREWBk&ab_channel=SpotMusicLyrics)
 - Momazo Loquete 👉<p align="center"> <img width="257" height="229" src="Perro currante.jpg"> </p>
 <p align="center">
-"𝘌𝘯𝘰𝘷𝘦" - 🐶 Perro Currante 🐶
+  "𝘌𝘯𝘰𝘷𝘦" - 🐶 Perro Currante 🐶
 </p>
 
 ## Mis Proyectos 📊📈
