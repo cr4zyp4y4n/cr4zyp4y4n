@@ -13,9 +13,11 @@ Bienvenido a mi perfil de GitHub.
 Soy un apasionado del desarrollo web, me encantan las frutas, yo por ejemplo, soy una pera🍐, me encantan las peras!
 
 ## Mis Proyectos 📊📈
+Aquí podrás ver algunos preyectos que he desarrollado, son bastante simples, porque la mayoría, aún no estan en github, si te quedas un tiempo por aquí, podrás ver como se va actualizando!
 - [Proyectos Java](https://github.com/cr4zyp4y4n/Java-Projects)
 
 ## Prácticas 👨‍💼📁
+Estas són las prácticas que he hecho en el Grado Superior, de momento hay dos, acabo de empezar, no quieras darme más trabajo, jeje god. A medida que avanze el curso podrás ver más prácticas!
 - [Prácticas](https://github.com/LaSalleGraciaDAW-23-24)
 <!--
 **cr4zyp4y4n/cr4zyp4y4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
