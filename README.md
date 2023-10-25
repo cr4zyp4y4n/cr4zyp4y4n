@@ -4,6 +4,17 @@
 <p align="center">
 "𝘌𝘯𝘰𝘷𝘦" - 𝘎𝘶𝘪𝘭𝘭𝘦𝘮 𝘥𝘦 𝘍𝘳𝘶𝘵𝘦𝘮
 </p>
+
+# Hola, soy [Guillem de Frutem]!
+
+Bienvenido a mi perfil de GitHub. 
+
+## Sobre mí
+Soy un apasionado del desarrollo web, me encantan las frutas, yo por ejemplo, soy una pera, me encantan las peras!
+
+## Mis Proyectos
+- [Nombre del Proyecto](link_a_tu_proyecto)
+- 
 <!--
 **cr4zyp4y4n/cr4zyp4y4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
