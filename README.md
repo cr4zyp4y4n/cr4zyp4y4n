@@ -12,7 +12,7 @@ Bienvenido a mi perfil de GitHub. Aquí podrás ver información sobre mí, mis 
 ## Sobre mí 🍐🧙‍♂️
 - Soy un apasionado del desarrollo web, me encantan las frutas, yo por ejemplo, soy una pera🍐, me encantan las peras!
 - [Esta es mi canción favorita.](https://www.youtube.com/watch?v=LEbsx5sYZ3s&ab_channel=GuyFawkes)
-- Momazo Loquete 👉<p align="center"> <img width="257" height="229" src="https://raw.githubusercontent.com/cr4zyp4y4n/cr4zyp4y4n/master/GuillemdeFrutem.png"> </p>
+- Momazo Loquete 👉<p align="center"> <img width="257" height="229" src="Perro currante.jpg"> </p>
 
 ## Mis Proyectos 📊📈
 Aquí podrás ver algunos preyectos que he desarrollado, son bastante simples, porque la mayoría, aún no estan en github, si te quedas un tiempo por aquí, podrás ver como se va actualizando!
