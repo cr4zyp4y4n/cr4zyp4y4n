@@ -7,10 +7,11 @@
 
 # Hola, soy Guillem de Frutem!
 
-Bienvenido a mi perfil de GitHub. 
+Bienvenido a mi perfil de GitHub. Aquí podrás ver información sobre mí, mis proyectos en desarrollo y las prácticas que estoy haciendo. Espero que pases un buen rato:
 
 ## Sobre mí 🍐🧙‍♂️
 Soy un apasionado del desarrollo web, me encantan las frutas, yo por ejemplo, soy una pera🍐, me encantan las peras!
+[Esta es mi canción favorita.](https://www.youtube.com/watch?v=LEbsx5sYZ3s&ab_channel=GuyFawkes)
 
 ## Mis Proyectos 📊📈
 Aquí podrás ver algunos preyectos que he desarrollado, son bastante simples, porque la mayoría, aún no estan en github, si te quedas un tiempo por aquí, podrás ver como se va actualizando!
