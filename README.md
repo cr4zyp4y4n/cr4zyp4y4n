@@ -11,8 +11,11 @@ Bienvenido a mi perfil de GitHub. Aquí podrás ver información sobre mí, mis 
 
 ## Sobre mí 🍐🧙‍♂️
 - Soy un apasionado del desarrollo web, me encantan las frutas, yo por ejemplo, soy una pera🍐, me encantan las peras!
-- [Esta es mi canción favorita.](https://www.youtube.com/watch?v=LEbsx5sYZ3s&ab_channel=GuyFawkes)
+- [Esta es mi canción favorita.](https://www.youtube.com/watch?v=3_cZWsREWBk&ab_channel=SpotMusicLyrics)
 - Momazo Loquete 👉<p align="center"> <img width="257" height="229" src="Perro currante.jpg"> </p>
+<p align="center">
+"𝘌𝘯𝘰𝘷𝘦" - 🐶 Perro Currante 🐶
+</p>
 
 ## Mis Proyectos 📊📈
 Aquí podrás ver algunos preyectos que he desarrollado, son bastante simples, porque la mayoría, aún no estan en github, si te quedas un tiempo por aquí, podrás ver como se va actualizando!
