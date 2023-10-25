@@ -17,7 +17,7 @@ Aquí podrás ver algunos preyectos que he desarrollado, son bastante simples, p
 - [Proyectos Java](https://github.com/cr4zyp4y4n/Java-Projects)
 
 ## Prácticas 👨‍💼📁
-Estas són las prácticas que he hecho en el Grado Superior, de momento hay dos, acabo de empezar, no quieras darme más trabajo, jeje god. A medida que avanze el curso podrás ver más prácticas!
+Estas són las prácticas que he hecho en el Grado Superior, de momento, hay solo dos, pero no te precipites, que acabo de empezar! No quieras darme más trabajo, jeje god. A medida que avanze el curso podrás ver más prácticas!
 - [Prácticas](https://github.com/LaSalleGraciaDAW-23-24)
 <!--
 **cr4zyp4y4n/cr4zyp4y4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
