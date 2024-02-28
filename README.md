@@ -19,11 +19,11 @@ Bienvenido a mi perfil de GitHub. Aquí podrás ver información sobre mí, mis 
 
 ## Mis Proyectos 📊📈
 Aquí podrás ver algunos preyectos que he desarrollado, son bastante simples, porque la mayoría, aún no estan en github, si te quedas un tiempo por aquí, podrás ver como se va actualizando!
-- [Proyectos Java](https://github.com/cr4zyp4y4n/Java-Projects)
+- [Proyectos Java](https://github.com/cr4zyp4y4n/Java-Projects): Colección de proyectos Java en los que he trabajado.
 
 ## Prácticas 👨‍💼📁
 Estas són las prácticas que he hecho en el Grado Superior, de momento, hay solo dos, pero no te precipites, que acabo de empezar! No quieras darme más trabajo, jeje god. A medida que avanze el curso podrás ver más prácticas!
-- [Prácticas](https://github.com/LaSalleGraciaDAW-23-24)
+- [Prácticas](https://github.com/LaSalleGraciaDAW-23-24): Prácticas realizadas durante mi Grado Superior en Desarrollo de Aplicaciones Web.
 <!--
 **cr4zyp4y4n/cr4zyp4y4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
