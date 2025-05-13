@@ -8,7 +8,9 @@ Mi objetivo es seguir aprendiendo y desarrollándome profesionalmente, buscando 
 
 ## Motivación
 
-El campo de la inteligencia artificial, me fascina. Estoy convencido de que la IA tiene un enorme potencial para transformar el acceso a la información y hacer que la web sea más útil y eficiente para todos.
+El campo de la inteligencia artificial, me fascina, me parece muy interesante como pueden llegar a funcionar estos sistemas por dentro. Estoy convencido de que la IA tiene un enorme potencial para transformar el acceso a la información y hacer que la web sea más útil y eficiente para todos.
+
+El desarrollo web, es otra de mis pasiones, hacer de cero una página web, me encanta. Empezar de a poquito y acabar teniendo una página funcional es una satisfacción increíble.
 
 ## Competencias
 
