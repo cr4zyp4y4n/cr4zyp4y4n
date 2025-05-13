@@ -2,7 +2,7 @@
 
 ## Perfil profesional
 
-Soy un estudiante de 22 años en la fase final del ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**. Tengo un interés profundo en cómo funcionan las tecnologías de **inteligencia artificial (IA)**.
+Soy un estudiante de 22 años en la fase final del ciclo formativo de **Desarrollo de Aplicaciones Web (DAW)**. Tengo un interés profundo en el la creación, diseño de paginas web y en cómo funcionan las tecnologías de **inteligencia artificial (IA)**.
 
 Mi objetivo es seguir aprendiendo y desarrollándome profesionalmente, buscando siempre mejorar la calidad de los sistemas que afectan a la vida diaria de los usuarios.
 
